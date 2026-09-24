@@ -2,7 +2,7 @@ import random
 import tkinter as tk
 
 CELL = 20
-WIDTH, HEIGHT = 30, 20
+WIDTH, HEIGHT = 300, 300
 SPEED = 150
 
 snake = [(WIDTH // 2, HEIGHT // 2)]
